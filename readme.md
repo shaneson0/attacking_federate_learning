@@ -22,6 +22,7 @@ Towards optimal statistical rates. In Proceedings of the International Conferenc
 
 代码运行
 ```
+mkdir logs
 python main.py
 
 ```
